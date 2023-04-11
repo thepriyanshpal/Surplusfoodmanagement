@@ -1,4 +1,4 @@
-# Surplusfoodmanagement
+# surplusfoodmanagement
 
 This hack is about creating an application which lets local business and other food owners to sell their unsold food which otherwise would go waste or unused.
 
